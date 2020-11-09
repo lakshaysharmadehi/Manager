@@ -1,5 +1,5 @@
-# Manager
+# lakshaysharmadehi/Manager
 🔃
 
 ## DEPLOY (Personal)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/Manager.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lakshaysharmadehi/Manager.git)
